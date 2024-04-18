@@ -1,0 +1,32 @@
+h1.fs-1.fw-bold{
+
+    margin:75px;
+    margin-bottom: 100px;
+}
+div.col.header{
+    background-image:url("./Images/porche\ img2.jpg") ;
+    background-position: center;
+}
+
+div.p-3.text-success-emphasis.bg-light.border.border-primary-success-subtle.rounded-3{
+    bottom: 0%;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+div.p-3.text-success-emphasis.bg-light.border.border-primary-success-subtle.rounded-3.about{
+    bottom: 0%;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 0%;
+    position: absolute;
+    left: 0;
+}
+
+div.row{
+
+    margin-top: 2%;
+}
+p.adress{
+    text-align: center;
+}
